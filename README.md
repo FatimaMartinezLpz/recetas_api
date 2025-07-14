@@ -190,7 +190,7 @@ Resultado con Término de Búsqueda
 
 Puedes probar el funcionamiento de la librería directamente aquí:
 
-[Ver demostración en línea](https://fatimamartinezlpz.github.io/LibreriaJavaScript/)
+[Ver demostración en línea](https://fatimamartinezlpz.github.io/recetas_api/)
 
 
 
