@@ -171,22 +171,18 @@ A continuación se muestran las principales vistas de la aplicación:
 
 Pantalla de Inicio de Sesión
 
-![inicio](capturas/captura1.png)
+![inicio](capturas/inicio.png)
 
 Pantalla Principal (Home)
 
 
-![principal](capturas/captura1.png)
+![principal](capturas/principal.png)
 
 Vista Detallada de Receta
 
 Resultado con Término de Búsqueda
 
-![receta](capturas/captura2.png)
-
-Resultado con Dato Inválido.
-
-![Resultado con Dato Inválido](capturas/captura3.png)
+![receta](capturas/receta.png)
 
 
 
